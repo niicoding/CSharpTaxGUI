@@ -1,0 +1,8 @@
+C:\Users\zacka\source\repos\TaxAppCSharp\TaxAppCSharp\bin\Debug\TaxAppCSharp.exe.config
+C:\Users\zacka\source\repos\TaxAppCSharp\TaxAppCSharp\bin\Debug\TaxAppCSharp.exe
+C:\Users\zacka\source\repos\TaxAppCSharp\TaxAppCSharp\bin\Debug\TaxAppCSharp.pdb
+C:\Users\zacka\source\repos\TaxAppCSharp\TaxAppCSharp\obj\Debug\TaxAppCSharp.Form1.resources
+C:\Users\zacka\source\repos\TaxAppCSharp\TaxAppCSharp\obj\Debug\TaxAppCSharp.Properties.Resources.resources
+C:\Users\zacka\source\repos\TaxAppCSharp\TaxAppCSharp\obj\Debug\TaxAppCSharp.csproj.GenerateResource.cache
+C:\Users\zacka\source\repos\TaxAppCSharp\TaxAppCSharp\obj\Debug\TaxAppCSharp.exe
+C:\Users\zacka\source\repos\TaxAppCSharp\TaxAppCSharp\obj\Debug\TaxAppCSharp.pdb
